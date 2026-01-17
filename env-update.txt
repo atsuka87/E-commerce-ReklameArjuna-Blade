@@ -1,0 +1,4 @@
+# Copy these lines to your .env file
+MIDTRANS_SERVER_KEY=Mid-server-DLp11mQnTO3W49djr1Li1viR
+MIDTRANS_CLIENT_KEY=Mid-client-IaV-2qG1iyRw453W
+MIDTRANS_IS_PRODUCTION=false
